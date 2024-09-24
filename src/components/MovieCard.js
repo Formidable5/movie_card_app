@@ -19,7 +19,7 @@ function MovieCard({ movie, onDelete, index }) {
         }}
       >
         <i className="fa-solid fa-trash"></i>
-        Delete
+        Delete items
       </button>
     </div>
   );
